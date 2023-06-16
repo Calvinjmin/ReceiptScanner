@@ -1,0 +1,14 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+deprecation==2.1.0
+dotenv==0.0.5
+idna==3.4
+lxml==4.9.2
+mindee==3.9.1
+packaging==23.1
+pikepdf==6.2.9
+Pillow==9.5.0
+python-dotenv==1.0.0
+pytz==2023.3
+requests==2.31.0
+urllib3==2.0.3
